@@ -1,7 +1,5 @@
 # Jackson or Not Jackson?  
 
-**Author:** Chloé Makoundou  
-
 ---
 
 ## Project Overview
@@ -46,8 +44,6 @@ dataset/
 │ ├─ jackson/
 │ └─ divers/
 ```
-
-
 - Training set: 160 Jackson, 160 divers  
 - Test set: 40 Jackson, 40 divers  
 
@@ -60,8 +56,9 @@ dataset/
 git clone <repo-url>
 cd CNN-Jackson-or-not
 ```
+```bash
 pip install -r requirements.txt
-
+```
 ---
 ## Usage
 **Training the model**
