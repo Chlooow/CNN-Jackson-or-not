@@ -1,7 +1,5 @@
 # Jackson or Not Jackson?  
 
----
-
 ## Project Overview
 
 This project was developed as part of the **Master's program in Computer Science and Big Data**, option *Recherche Big Data*, in the course *Recherche en Big Data* with M. Touati.  
