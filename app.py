@@ -27,8 +27,7 @@ st.markdown("""
 This project explores CNN models to classify images and determine whether they represent **Jackson Wang** or not.
 
 ### Problematic
-Jackson Wang is sometimes mistaken for other idols, which can frustrate fans.
-This application uses deep learning to assist with identification.
+This application uses deep learning to assist with identification of Jackson Wang.
 
 ### Who is Jackson Wang?
 Jackson Wang is a Hong Kong rapper, singer, and performer, member of GOT7.
@@ -43,7 +42,7 @@ He has a successful international solo career and is also active in fashion and 
 def load_model():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = get_model(model_name="optimized", device=device)
-    model.load_state_dict(torch.load("models/model_best.pth", map_location=device))
+    model.load_state_dict(torch.load("models/model_best2.pth", map_location=device))
     model.eval()
     return model, device
 
