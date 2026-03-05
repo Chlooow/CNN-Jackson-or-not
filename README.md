@@ -76,6 +76,15 @@ streamlit run app.py
 - Click Analyse to see the prediction and confidence.
 - Provide feedback if the prediction is correct or not.
 
+---
+
+## Démo
+
+
+https://github.com/user-attachments/assets/ab730429-0251-482e-936f-1961fb10e1d2
+
+
+
 ## Author
 Chloé Makoundou / Cholorsplash
-This project was created as part of a Master's program in Computer Science and Big Data, option Recherche Big Data.
+© 2025 - This project was created as part of a Master's program in Computer Science and Big Data, option Recherche Big Data.
